@@ -1,10 +1,5 @@
 ### --HR Analytics Study-----###
-##Group Name:Upgrad Pune- Bhubaneswar Cohorts
-#Rishabh Srivastava 
-#Vinod Jha 
-#Saurav Kumar
-#Amitabha Banerjee
-
+#Vinod Jha
 ## PROBLEM STATEMENT ###
 
 ### A large Company XYZ wants to carry out this case study to find out the reasons for attrition in the company.
